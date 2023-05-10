@@ -1,7 +1,5 @@
 # Doss_Shell_And_Editor
-Implemented various features, including profile picture, managing friends, home page, and profile page.
-Enabled users to upload pictures, post updates, and comment on posts.
-Developed a user-friendly interface using HTML and CSS, allowing users to easily navigate the app and interact with their
-friends.
-Created a system for deleting posts, ensuring that users could easily remove content they no longer wanted to share.
-Utilized PHP to implement complex functionality, such as posting updates and managing friend requests.
+Designed and implemented a DOS/Command Window-like shell and Notepad using C++ programming language
+Implemented a tree-based architecture to represent folders and files, with each folder considered as a node and its subfolders and files as children.
+Implemented all DOS commands using tree operations, including folder creation, deletion, and navigation, file creation, deletion, reading, and writing.
+Implemented Notepad functionality for file editing, including write data, undo, and redo operations, using Linked List data structure.
